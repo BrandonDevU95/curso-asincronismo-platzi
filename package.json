@@ -1,17 +1,17 @@
 {
-  "name": "curso-asincronismo-platzi",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "javascript"
-  ],
-  "author": "Brandon Vargas",
-  "license": "MIT",
-  "dependencies": {
-    "xmlhttprequest": "^1.8.0"
-  }
+	"name": "curso-asincronismo-platzi",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"callback": "node src/callback/challenge.js"
+	},
+	"keywords": [
+		"javascript"
+	],
+	"author": "Brandon Vargas",
+	"license": "MIT",
+	"dependencies": {
+		"xmlhttprequest": "^1.8.0"
+	}
 }
